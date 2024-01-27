@@ -675,5 +675,526 @@
       "city": "cascais",
       "id": 75
     }
+  ],
+
+  "restaurants": [
+    {
+      "name": "Mar do Inferno",
+      "image": "https://www.portugalresidential.com/wp-content/uploads/Mar-Inferno-e1481732853284.jpg",
+      "type": "Seafood restaurant",
+      "location": "cascais",
+      "address": "Av. Rei Humberto II de Itália, 2750-800",
+      "id": 1
+    },
+    {
+      "name": "Paladar da Guia",
+      "image": "https://fastly.4sqi.net/img/general/600x600/16285689_GMOSVXL9lPH8MtasK8itvxd_TkZP11vl4vqmJa6YHJ8.jpg",
+      "type": "Bar,Mediterranean,European",
+      "location": "cascais",
+      "address": "Avenida Nossa Senhora do Cabo, 101 Casa da Guia",
+      "id": 2
+    },
+
+    {
+      "name": "House of Wonders",
+      "image": "https://cdn.website.dish.co/media/e9/eb/4367031/House-of-Wonders-245703635-6588249667859624-4676700068926907397-n-jpg.jpg",
+      "type": "vegetarian restaurant ",
+      "location": "cascais",
+      "address": "R. da Misericórdia 53",
+      "id": 3
+    },
+    {
+      "name": "Kathmandu Steak House",
+      "image": "https://media.timeout.com/images/105851880/image.jpg",
+      "type": "Nepalese & Portuguese cuisine",
+      "location": "cascais",
+      "address": "Av. 25 de Abril 127C",
+      "id": 4
+    },
+
+    {
+      "name": "Malacopa Taco Bar",
+      "image": "https://media.timeout.com/images/105863781/750/422/image.jpg",
+      "type": "Mexican Vegan Options",
+      "location": "cascais",
+      "address": "Rua Afonso Sanches 38",
+      "id": 5
+    },
+    {
+      "name": "Sushi Toro",
+      "image": "https://res.cloudinary.com/tf-lab/image/upload/f_auto,q_auto,w_800,c_limit/customer/a9c47964-a6bf-48b1-9605-88aaa06ebd54/37edb544-af8d-41ef-a187-ed03877b5cef.jpg",
+      "type": "Japanese Sushi Asian",
+      "location": "cascais",
+      "address": "Avenida Aida 215 Estoril Garden",
+      "id": 6
+    },
+
+    {
+      "name": "STŌ Mercearia",
+      "image": "https://media.timeout.com/images/105851880/image.jpg",
+      "type": "Portuguese cuisineese",
+      "location": "lisbon",
+      "address": "Rua dos Fanqueiros, 85",
+      "id": 6
+    },
+    {
+      "name": "Floresta Das Escadinhas",
+      "image": "https://10619-2.s.cdn12.com/rests/original/102_520654319.jpg",
+      "type": "Mediterranean, Barbecue",
+      "location": "lisbon",
+      "address": "Rua de Santa Justa 3",
+      "id": 7
+    },
+
+    {
+      "name": "Il Mercato Páteo Bagatela",
+      "image": "https://lisbonshopping.com/wp-content/uploads/2022/10/LisbonShopping_1600x1200__0003_il-mercato7_cred_IlMercato-1024x768.jpg",
+      "type": "Italian,Sicilian,Southern-Italian",
+      "location": "lisbon",
+      "address": "Travessa Legua da Povoa 12 Pateo Bagatela Páteo Bagatela,",
+      "id": 8
+    },
+    {
+      "name": "Come Prima Restaurante Italiano",
+      "image": "https://lifecooler.com/files/registos/imagens/375462/284374.jpg",
+      "type": "Italian Pizza Mediterranean",
+      "location": "lisbon",
+      "address": "Rua do Olival 256",
+      "id": 9
+    },
+
+    {
+      "name": "La Bonne Crêpe",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/08/89/c2/eb/la-bonne-crepe-restaurant.jpg",
+      "type": "FrenchFast FoodEuropean",
+      "location": "lisbon",
+      "address": "Rua Marquesa de Alorna 30a,",
+      "id": 10
+    },
+    {
+      "name": "Seventh Brunch Chiado",
+      "image": "https://echoboomer.pt/wp-content/uploads/2023/05/seventh-cascais-interior.jpg",
+      "type": "Cafe International European",
+      "location": "lisbon",
+      "address": "Calçada Do Combro 147 Chiado",
+      "id": 11
+    },
+
+    {
+      "name": "Antikuario Cafe",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-p/25/db/d5/34/sala.jpg",
+      "type": "Mediterranean,European ",
+      "location": "lisbon",
+      "address": "Rua de Sao Jose 166",
+      "id": 12
+    },
+
+    {
+      "name": "SuperPizza.pt",
+      "image": "https://cdn.dishdojo.com/photos_webp_brasil/0x94a0940cbe5e65ff_0xecb6126f44f1386e/photo_0x94a0940cbe5e65ff_0xecb6126f44f1386e_1687792334025.webp",
+      "type": "Italian American Pizza",
+      "location": "porto",
+      "address": "Rua de Antero de Quental 504",
+      "id": 13
+    },
+    {
+      "name": "Padoca Vegan Restaurant",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/25/0e/aa/9c/estamos-a-espera-da-tua.jpg",
+      "type": "European,Healthy,Portuguese",
+      "location": "porto",
+      "address": "Rua Pádua Correia, 261",
+      "id": 14
+    },
+
+    {
+      "name": "Farinha",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/bd/64/b9/photo0jpg.jpg?w=800&h=600&s=1",
+      "type": "Italian Pizza Mediterranean",
+      "location": "porto",
+      "address": "Rua Doutor Barbosa de Castro 74",
+      "id": 15
+    },
+    {
+      "name": "Dama Pe de Cabra",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0a/03/fb/fa/dia-de-s-valentim.jpg",
+      "type": "Portuguese Vegan Options",
+      "location": "porto",
+      "address": "Passeio Sao Lazaro 5",
+      "id": 16
+    },
+
+    {
+      "name": "Don Forno",
+      "image": "https://cdn.website.dish.co/media/7d/59/2440423/Don-Forno-98089329-1344618812414520-2583881917598269440-o.jpg",
+      "type": "Portuguese Vegetarian",
+      "location": "porto",
+      "address": "Avenida Dom Manuel II,1378",
+      "id": 17
+    },
+    {
+      "name": "MUU Steakhouse",
+      "image": "https://www.fritempo.pt/storage/app/media/Portfolio_01/MUU%20Steakhouse%20-%20Porto/MUU10.png",
+      "type": "Steakhouse,European,Portuguese",
+      "location": "porto",
+      "address": "Rua do Almada 149A,",
+      "id": 18
+    },
+
+    {
+      "name": "Restaurante Goya",
+      "image": "https://visit.funchal.pt/wp-content/uploads/2021/09/186445130_857008091576845_1120329020332157202_n.jpg",
+      "type": "French Mediterranean Vegan",
+      "location": "madeira",
+      "address": "Rua Simplicio dos Passos Gouveia Edifício Lido View, Bloco n.º 2, Piso 0",
+      "id": 19
+    },
+    {
+      "name": "Indian Palace Restaurant",
+      "image": "https://d1ralsognjng37.cloudfront.net/87c6dba4-6685-49ea-9a88-b9c6e7f670f9.jpeg",
+      "type": "Indian food",
+      "location": "madeira",
+      "address": "Estrada Monumental 197, Funchal,",
+      "id": 20
+    },
+
+    {
+      "name": "Mar do Inferno",
+      "image": "https://www.portugalresidential.com/wp-content/uploads/Mar-Inferno-e1481732853284.jpg",
+      "type": "Seafood restaurant",
+      "location": "madeira",
+      "address": "Av. Rei Humberto II de Itália, 2750-800",
+      "id": 21
+    },
+    {
+      "name": "MadMarket Restaurante",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/1c/3c/5b/ed/madmarket-restaurant.jpg",
+      "type": "Mediterranean Contemporary",
+      "location": "madeira",
+      "address": "Estrada Monumental 284 Monumental Experience, 1st floor",
+      "id": 22
+    },
+
+    {
+      "name": "La Vaca Negra",
+      "image": "https://images.getinapp.com.br/79cee60b22a09e7c4502a5c7a02cdedad6ad5b11.JPG",
+      "type": "Steak restaurant",
+      "location": "madeira",
+      "address": "Rua Velha Ajuda 12, Funchal, Madeira 9000-115 Portugal",
+      "id": 23
+    },
+    {
+      "name": "Dona Nina",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0e/a0/8b/99/terraco-da-restaurante.jpg",
+      "type": "Seafood, Mediterranean,European",
+      "location": "madeira",
+      "address": "Rua Ponta da Cruz 16A, Funchal",
+      "id": 24
+    },
+
+    {
+      "name": "Ze Manel dos Ossos",
+      "image": "https://www.nit.pt/wp-content/uploads/2023/03/5654c078f5ff146bbae0081e0c77387b.jpg",
+      "type": "European Portuguese",
+      "location": "coimbra",
+      "address": "Beco do Forno 12",
+      "id": 25
+    },
+    {
+      "name": "UATA?! Coimbra",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaR0Jgiu4350qlt25FU57mS00mivpquNM1Vw&usqp=CAU",
+      "type": "BrazilianFast FoodDiner",
+      "location": "coimbra",
+      "address": "Beco do Fanado, 5",
+      "id": 26
+    },
+
+    {
+      "name": "No Tacho",
+      "image": "https://lifecooler.com/files/registos/imagens/520039/427936.jpg",
+      "type": "Mediterranean,European",
+      "location": "coimbra",
+      "address": "Rua da Moeda No 20",
+      "id": 27
+    },
+    {
+      "name": "Arcada",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/17/f1/da/d0/collagemaker-20190615.jpg",
+      "type": "European,Portuguese",
+      "location": "coimbra",
+      "address": "Rua Fernandes Tomás, 91,",
+      "id": 28
+    },
+
+    {
+      "name": "Sete Restaurante",
+      "image": "https://lifecooler.com/files/registos/imagens/457496/369705.jpg",
+      "type": "International,Mediterranean,European",
+      "location": "coimbra",
+      "address": "Rua Doctor Martins de Carvalho, N 10",
+      "id": 29
+    },
+    {
+      "name": "Boutique Tapas & Petiscos",
+      "image": "https://www.evasoes.pt/files/2022/04/43243656_BINARY_GL23032022MARIAJOAOGALA023.jpg",
+      "type": "Mediterranean,Portuguese",
+      "location": "coimbra",
+      "address": "Rua Fernandes Tomás N°51 e 53",
+      "id": 30
+    },
+
+    {
+      "name": "Restaurante A Grelha",
+      "image": "https://cdn0.casamentos.pt/vendor/1478/3_2/960/jpg/Restaurante%20Grelha%20-%20Amarante%20-%20Mozilla%20Firefox_2011-05-05_14-25-15.jpeg",
+      "type": "European,Grill",
+      "location": "santarém",
+      "address": "Rua do Ateneu Comercial de Santarem Lt. 1 R/C.Esqº",
+      "id": 31
+    },
+    {
+      "name": "Chapa 7",
+      "image": "https://weur-cdn.cardapio.menu/storage/media/company_gallery/47011039/conversions/contribution_gallery.jpg",
+      "type": "Seafood,European",
+      "location": "santarém",
+      "address": "Rua Sociedade Jardim de Cima Rua 16 de Março",
+      "id": 32
+    },
+
+    {
+      "name": "Dois Petiscos",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/12/25/42/56/dois-petiscos.jpg",
+      "type": "International Mediterranean European",
+      "location": "santarém",
+      "address": "Rua Cidade da Covilha 4,",
+      "id": 33
+    },
+    {
+      "name": "Ó Balcao",
+      "image": "https://media.timeout.com/images/105819496/750/422/image.jpg",
+      "type": "European,Portuguese",
+      "location": "santarém",
+      "address": "Rua Pedro de Santarem n. 73",
+      "id": 34
+    },
+
+    {
+      "name": "Taberna do Quinzena",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0b/1e/f8/ee/taberna-do-quinzena.jpg",
+      "type": "Mediterranean,European,Portuguese",
+      "location": "santarém",
+      "address": "Rua Pedro de Santarem 93-95",
+      "id": 35
+    },
+    {
+      "name": "CISCO - Cozinha Tradicional",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/10/cb/ce/15/cisco-cozinha-tradicional_rotated_270.jpg",
+      "type": "Portuguese Vegetarian",
+      "location": "santarém",
+      "address": "Rua de Coruche 121 A",
+      "id": 36
+    },
+
+    {
+      "name": "Restaurante Metamorphosis",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/1d/8e/c1/42/ibienvenido-a-nuestro.jpg",
+      "type": "Seafood,Mediterranean,European",
+      "location": "sintra",
+      "address": "Rua Joao de Deus 41 45",
+      "id": 37
+    },
+    {
+      "name": "Malacopa Taco Bar",
+      "image": "https://res.cloudinary.com/tf-lab/image/upload/restaurant/0d9488b5-e9df-4c08-b0b1-7ab115c8b151/475d9b70-1d1d-4b3e-bfba-45d841ae61e6.png",
+      "type": "MexicanVegan Options",
+      "location": "sintra",
+      "address": "Rua Afonso Sanches 38",
+      "id": 38
+    },
+
+    {
+      "name": "Restaurante Central",
+      "image": "https://s2-casavogue.glbimg.com/2KG3XuiGpDebwt2of-B7izyYTmA=/0x0:1080x932/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_d72fd4bf0af74c0c89d27a5a226dbbf8/internal_photos/bs/2023/G/l/7lDCWqQkAUpwIPBIdD6Q/restaurante-central-02.jpg",
+      "type": "Mediterranean European Vegetarian",
+      "location": "sintra",
+      "address": "Rua da Liberdade 100",
+      "id": 39
+    },
+    {
+      "name": "Nau Palatina",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/05/c1/ae/c3/nau-palatina.jpg",
+      "type": "Mediterranean,PortugueseVegetarian",
+      "location": "sintra",
+      "address": "Calcada de Sao Pedro 18",
+      "id": 40
+    },
+
+    {
+      "name": "Sr. Manuel Seafood Bar",
+      "image": "https://res.cloudinary.com/tf-lab/image/upload/restaurant/0d9488b5-e9df-4c08-b0b1-7ab115c8b151/475d9b70-1d1d-4b3e-bfba-45d841ae61e6.png",
+      "type": "BarSeafood,European",
+      "location": "sintra",
+      "address": "Rua Afonso Sanches 38",
+      "id": 41
+    },
+    {
+      "name": "Ka Sushi Cave",
+      "image": "https://www.kasushi.pt/wp-content/uploads/2018/10/Night-20.jpg",
+      "type": "JapaneseSeafood International",
+      "location": "sintra",
+      "address": "Travessa Frederico Arouca 9",
+      "id": 42
+    },
+
+    {
+      "name": " Namastey Restaurante indiano",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/1a/fb/7c/e7/balcao-namasteyindia.jpg",
+      "type": "Indian Asian Vegetarian",
+      "location": "faro",
+      "address": "Rua 1 de Maio no 13",
+      "id": 43
+    },
+    {
+      "name": "Restaurant Céu",
+      "image": "https://ogimg.infoglobo.com.br/in/23433454-83c-692/FT1086A/760/80886244_ElGourmet-Lugares-com-reserva-Flor-do-Ceu.-Foto-Ricardo-Pansaraza.jpg",
+      "type": "AsianFusion",
+      "location": "faro",
+      "address": "R. Dr. Joao Lucio 5,",
+      "id": 44
+    },
+
+    {
+      "name": "Qd. Limoni",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/1d/d9/c4/ed/make-your-wish-came-true.jpg",
+      "type": "Italian,Mediterranean,European",
+      "location": "faro",
+      "address": "Av. Ayrton Senna da Silva Vale dos Pinheiros, Quinta do Lago 8135 ",
+      "id": 45
+    },
+    {
+      "name": "My’o Meu",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/17/a4/02/39/my-omeu-outside.jpg",
+      "type": "Mediterranean, European Fusion",
+      "location": "faro",
+      "address": "Rua Conselheiro Sebastião Teles 8,",
+      "id": 46
+    },
+
+    {
+      "name": "Mare Shrimp & Stuff",
+      "image": "https://www.nit.pt/wp-content/uploads/2022/08/59abe37ed583a3e1b7e2463f1af3db92-754x394.jpg",
+      "type": "Seafood restaurant",
+      "location": "faro",
+      "address": "Rua Doutor Jose Barbosa Travessa PSP/ Terra i mar",
+      "id": 47
+    },
+    {
+      "name": "Taberna ze-ze",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/db/5a/61/taberna-ze-ze.jpg",
+      "type": "Seafood,Mediterranean",
+      "location": "faro",
+      "address": "Travessa Alportel 15 N 15",
+      "id": 48
+    },
+
+    {
+      "name": "34",
+      "image": "https://espacodearquitetura.com/wp-content/uploads/2021/11/Restaurante-34_REMA_ITS_2.jpg",
+      "type": "International Mediterranean European",
+      "location": "guimarães",
+      "address": "Largo do Toural Nº 23",
+      "id": 49
+    },
+    {
+      "name": "Solar do Arco Restaurante",
+      "image": "https://lifecooler.com/files/registos/imagens/331776/392112.jpg",
+      "type": "Portuguese cuisineese",
+      "location": "guimarães",
+      "address": "Rua da Santa Maria 48-50",
+      "id": 50
+    },
+
+    {
+      "name": "Casa Amarela",
+      "image": "https://cdn6.campograndenews.com.br/uploads/noticias/2020/03/10/1fgcfgaugxktu.jpg",
+      "type": "Mediterranean,European,Contemporary",
+      "location": "guimarães",
+      "address": "Rua de Donães 16",
+      "id": 51
+    },
+    {
+      "name": "Já Cá Estou Restaurante Bar",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/16/7f/75/fb/sapateira-recheada.jpg",
+      "type": "Portuguese cuisineese",
+      "location": "guimarães",
+      "address": "Rua Val de Donas 3",
+      "id": 52
+    },
+
+    {
+      "name": "Yamazaki Sushi Club",
+      "image": "https://amoviscondedemaua.com.br/wp-content/uploads/elementor/thumbs/amo-visconde-de-maua-yamazaki-sushi-novas-9-p3ct3pb9u4h9tbsf08ihday2yf6rt0lpfds7w5kygg.jpg",
+      "type": "Japanese Sushi Asian",
+      "location": "guimarães",
+      "address": "Rua Professor Abel Salazar Nº 412 ",
+      "id": 53
+    },
+    {
+      "name": "Monte dos Leitões",
+      "image": "https://d1ralsognjng37.cloudfront.net/62302cac-8a18-4420-a80e-53ec68f8e09a.jpeg",
+      "type": "Grill,Portuguese,Vegetarian Friendly",
+      "location": "guimarães",
+      "address": "Travessa de Sao Mamede nº 225 Monte Largo",
+      "id": 54
+    },
+
+    {
+      "name": "Omakase Experience",
+      "image": "https://media1.miaminewtimes.com/mia/imager/u/original/12624504/mr_omakase_4.jpg",
+      "type": "JapaneseSushi Asian",
+      "location": "braga",
+      "address": "Rua do Raio nº 6",
+      "id": 55
+    },
+    {
+      "name": "Steakhouse Churrasqueira Nacional Braga",
+      "image": "https://www.evasoes.pt/files/2023/03/46135121_BINARY_GI06022023PJM000021.jpg",
+      "type": "Steakhouse,Barbecue,Grill",
+      "location": "braga",
+      "address": "Rua Fotógrafo Arcelino N 7",
+      "id": 56
+    },
+
+    {
+      "name": "O Filho da Mãe",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-p/1c/ec/1e/4d/o-tartaro.jpg",
+      "type": "Fusion",
+      "location": "braga",
+      "address": "Rua Dom Afonso Henriques 25",
+      "id": 57
+    },
+    {
+      "name": "São Frutuoso",
+      "image": "https://lh5.googleusercontent.com/p/AF1QipO9GB4CaaV9YkrfDZkQDTw8WIKuxDa8k8wt2NvF",
+      "type": "Portuguese cuisineese",
+      "location": "braga",
+      "address": "Rua Costa Gomes 168",
+      "id": 58
+    },
+
+    {
+      "name": "INATO Bistrô",
+      "image": "https://revistaspot.pt/wp-content/uploads/2022/12/inato-9.jpg",
+      "type": "Mediterranean,European,Portuguese",
+      "location": "braga",
+      "address": "Praça do Municipio,",
+      "id": 59
+    },
+    {
+      "name": "Tasca do Carregal",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/1d/91/c2/1d/esplanada-da-tasca.jpg",
+      "type": "Portuguese cuisineese",
+      "location": "braga",
+      "address": "Avenida do Carregal 162 R/C",
+      "id": 60
+    }
   ]
 }
